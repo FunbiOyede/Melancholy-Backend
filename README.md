@@ -1,2 +1,2 @@
 # Melancholy-Backend
-Dotnet Api boilerplate
+An api boilerplate that emulates a quick crud app. I don't like repetitive task 😆 
